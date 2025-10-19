@@ -180,7 +180,7 @@ html, body{
 }
 @media (max-width: 768px){
   .nav a{
-    font-size: 4vw;
+    font-size: 2vw;
     font-weight: 500;
   }
 }
@@ -605,4 +605,5 @@ footer{
     padding: 5vw 0vw;
   }
 }
+
 
