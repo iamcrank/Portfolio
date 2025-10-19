@@ -120,14 +120,14 @@ html, body{
   .name .top{
     position: absolute;
     top: 25%;
-    left: 35%;
-    transform: translate(-35%, 0%);
+    left: 30%;
+    transform: translate(-30%, 0%);
   }
   .name .low{
     position: absolute;
     top: 65%;
-    left: 45%;
-    transform: translate(-45%, 0%);
+    left: 40%;
+    transform: translate(-40%, 0%);
   }
 }
 /**/
@@ -180,8 +180,9 @@ html, body{
 }
 @media (max-width: 768px){
   .nav a{
-    font-size: 2vw;
+    font-size: 4vw;
     font-weight: 500;
+    text-align: center;
   }
 }
 /**/
@@ -605,5 +606,6 @@ footer{
     padding: 5vw 0vw;
   }
 }
+
 
 
