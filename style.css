@@ -342,6 +342,7 @@ html, body{
   position: relative;
   display: flex;
   justify-content: center;
+  gap: 5px;
 }
 .skills .sbox{
   width: 28vw;
@@ -606,6 +607,7 @@ footer{
     padding: 5vw 0vw;
   }
 }
+
 
 
 
